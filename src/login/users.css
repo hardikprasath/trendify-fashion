@@ -1,0 +1,72 @@
+.users {
+  background-image: linear-gradient(242deg, transparent 0%, transparent 62%,rgba(93,93,93,0.01) 62%, rgba(93,93,93,0.01) 68%,transparent 68%, transparent 100%),linear-gradient(314deg, transparent 0%, transparent 80%,rgba(93,93,93,0.03) 80%, rgba(93,93,93,0.03) 94%,transparent 94%, transparent 100%),linear-gradient(22deg, transparent 0%, transparent 44%,rgba(93,93,93,0.03) 44%, rgba(93,93,93,0.03) 74%,transparent 74%, transparent 100%),radial-gradient(circle at 50% 43%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 2%,transparent 2%, transparent 100%),radial-gradient(circle at 53% 88%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 2%,transparent 2%, transparent 100%),radial-gradient(circle at 75% 8%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 2%,transparent 2%, transparent 100%),radial-gradient(circle at 88% 38%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 2%,transparent 2%, transparent 100%),radial-gradient(circle at 22% 47%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 25% 63%, rgba(0,0,0,0.03) 0%, rgba(0,0,0,0.03) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 11% 36%, rgba(0,0,0,0.03) 0%, rgba(0,0,0,0.03) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 24% 20%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 24% 89%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 28% 97%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 32% 4%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 62% 28%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 40% 44%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 89% 51%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 5%,transparent 5%, transparent 100%),linear-gradient(45deg, rgb(46, 228, 244),rgb(141, 8, 253));
+  height:88.3vh;
+}
+
+.css-1qj5503 {
+  width: 550px;
+  background-image: linear-gradient(242deg, transparent 0%, transparent 62%,rgba(93,93,93,0.01) 62%, rgba(93,93,93,0.01) 68%,transparent 68%, transparent 100%),linear-gradient(314deg, transparent 0%, transparent 80%,rgba(93,93,93,0.03) 80%, rgba(93,93,93,0.03) 94%,transparent 94%, transparent 100%),linear-gradient(22deg, transparent 0%, transparent 44%,rgba(93,93,93,0.03) 44%, rgba(93,93,93,0.03) 74%,transparent 74%, transparent 100%),radial-gradient(circle at 50% 43%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 2%,transparent 2%, transparent 100%),radial-gradient(circle at 53% 88%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 2%,transparent 2%, transparent 100%),radial-gradient(circle at 75% 8%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 2%,transparent 2%, transparent 100%),radial-gradient(circle at 88% 38%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 2%,transparent 2%, transparent 100%),radial-gradient(circle at 22% 47%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 25% 63%, rgba(0,0,0,0.03) 0%, rgba(0,0,0,0.03) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 11% 36%, rgba(0,0,0,0.03) 0%, rgba(0,0,0,0.03) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 24% 20%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 24% 89%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 8%,transparent 8%, transparent 100%),radial-gradient(circle at 28% 97%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 32% 4%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 62% 28%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 40% 44%, rgba(0,0,0,0.02) 0%, rgba(0,0,0,0.02) 5%,transparent 5%, transparent 100%),radial-gradient(circle at 89% 51%, rgba(0,0,0,0.01) 0%, rgba(0,0,0,0.01) 5%,transparent 5%, transparent 100%),linear-gradient(45deg, rgb(46, 228, 244),rgb(141, 8, 253));
+}
+
+
+.users-signin {
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.3);
+  background-color: #E2F4FD;
+  max-width: 30rem;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.users-heading h2 {
+  font-family: poppins;
+  text-align: center;
+}
+
+.users-heading p {
+  text-align: center;
+  font-family: "Jost", sans-serif;
+}
+
+.users-subheading h2 {
+  font-family: poppins;
+  text-align: center;
+}
+
+.users-subheading span {
+  font-weight: 700;
+  font-size: 18px;
+  color: #03045E;
+}
+
+.users-subheading p {
+  text-align: center;
+  font-family: "Jost", sans-serif;
+}
+
+.users-btn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.forget-pwd {
+  font-size: 16px;
+  font-weight: 600;
+  color: #03045E;
+}
+
+.signup {
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.signup a {
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.signup span {
+  font-size: 16px;
+  font-weight: 500;
+}

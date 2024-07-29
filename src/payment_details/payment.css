@@ -1,0 +1,120 @@
+.payment-background {
+    height: 100vh;
+   
+    background-image: linear-gradient(90deg, rgb(116, 216, 252), rgb(156, 153, 254));
+}
+
+.payment-grid {
+    padding-top: 30px;
+}
+
+.payment-heading h2 {
+    font-family: poppins;
+    text-align: center;
+}
+
+.payment {
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.3);
+    background-color: #ffffff;
+    max-width: 35rem;
+    border-radius: 5px;
+    /* margin: 2rem auto; */
+    padding: 2rem;
+}
+
+/* .css-17vbkzs-MuiFormControl-root-MuiTextField-root{
+    margin-top: 0px;
+    margin-bottom: 0px;
+} */
+
+.form-field {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.payment-cart-total {
+    /* margin-top: 10px; */
+    border-radius: 10px;
+    background-color: #ffffff !important;
+    width: 100%;
+    max-width: 330px;
+    height: 25vh;
+    /* padding-right: 10px; */
+    /* float: right; */
+}
+
+.payment-cart-total p {
+    font-family: 'Poppins', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    /* margin-top: 10px; */
+}
+
+.payment-total {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.payment-total p {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+
+.payment-sub-total h6 {
+    padding-left: 77px;
+}
+
+/* .payment-total h6 {
+    padding-right: 7px;
+} */
+
+.payment-sub-total {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.payment-sub-total p {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+}
+
+.checkbox-button {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.billing-order-btn {
+    margin-top: 20px;
+    text-align: right;
+}
+
+.shipping {
+    border-radius: 10px;
+    background-color: #ffffff !important;
+    width: 100%;
+    max-width: 330px;
+    height: 25vh;
+    padding-right: 40px;
+}
+
+.shipping p {
+    font-family: 'Poppins', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.shipping-cart {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+
+.shipping-details span{
+    font-weight: 500;
+}

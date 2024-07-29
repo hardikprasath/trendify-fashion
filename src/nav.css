@@ -1,0 +1,91 @@
+.nav-full {
+    position: absolute;
+    top: 0;
+    z-index: 2;
+    width: 100%;
+    /* padding: 0px 31px; */
+    background-color: #B0DDE8;
+}
+
+nav.navbar.navbar-expand-lg.navbar-light {
+    gap: 15px;
+
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: rgb(0, 0, 0);
+    font-weight: 600;
+}
+
+.navbar-light .navbar-brand {
+    color: rgb(204, 135, 135);
+}
+
+.navbar-nav {
+    font-size: 15px;
+    font-weight: 500;
+    gap: 3px;
+    color: rgb(255, 255, 255);
+
+}
+
+a.nav-link.active:hover {
+    color: #6c7ae0;
+}
+
+.navbar-nav .nav-link.active {
+    color: #010101;
+    font-size: 16px;
+}
+
+.nav-icon .nav-link.active {
+    font-size: 30px;
+}
+
+.navbar-nav a {
+    color: rgb(116, 79, 79);
+    margin-top: 7px
+}
+
+.navbar-nav {
+    margin-right: 50px;
+}
+
+.nav-icon {
+    display: flex;
+    font-size: 25px;
+    align-items: center;
+}
+
+.nav-link {
+    color: black;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-left: 37px;
+    padding-right: 37px;
+}
+
+.circle-icon {
+    font-size: 23px;
+    cursor: pointer;
+    /* float: right;
+    margin-right: 35px;
+    margin-top: 10px; */
+}
+
+.users-icon {
+    font-size: 23px;
+}
+
+.username-initial {
+    color: black;
+}
+
+.drawer-background {
+    background-image: radial-gradient(circle at 79% 30%, rgba(230, 230, 230,0.04) 0%, rgba(230, 230, 230,0.04) 50%,rgba(12, 12, 12,0.04) 50%, rgba(12, 12, 12,0.04) 100%),radial-gradient(circle at 53% 89%, rgba(210, 210, 210,0.04) 0%, rgba(210, 210, 210,0.04) 50%,rgba(24, 24, 24,0.04) 50%, rgba(24, 24, 24,0.04) 100%),radial-gradient(circle at 92% 89%, rgba(17, 17, 17,0.04) 0%, rgba(17, 17, 17,0.04) 50%,rgba(205, 205, 205,0.04) 50%, rgba(205, 205, 205,0.04) 100%),radial-gradient(circle at 21% 13%, rgba(124, 124, 124,0.04) 0%, rgba(124, 124, 124,0.04) 50%,rgba(243, 243, 243,0.04) 50%, rgba(243, 243, 243,0.04) 100%),radial-gradient(circle at 77% 0%, rgba(16, 16, 16,0.04) 0%, rgba(16, 16, 16,0.04) 50%,rgba(130, 130, 130,0.04) 50%, rgba(130, 130, 130,0.04) 100%),linear-gradient(90deg, rgb(247, 101, 31),rgb(249, 105, 208));
+    height:100vh;
+}

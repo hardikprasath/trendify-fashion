@@ -1,0 +1,29 @@
+.forms{
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.3);
+  background-color: #fff;
+  max-width: 30rem;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+.signup-con span{
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+.dd{
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.signup-heading h2{
+    font-family: poppins;
+    text-align: center;
+}
+
+.signup-heading p{
+    text-align: center;
+    font-family: "Jost",sans-serif;
+}

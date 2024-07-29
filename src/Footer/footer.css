@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+.footer{
+    color: white;
+}
+
+li{
+    font-size: 15px;
+}
+
+.grid-one{
+    line-height: 35px;
+}
+.grid-two{
+    line-height: 35px;
+}
+
+.grid-one li{
+    font-family:"Poppins-Regular";
+    font-size: "15px";
+    line-height: "1.923";
+    
+}
+
+.grid-three li{
+    font-family:"Poppins-Regular";
+    font-size: "15px";
+    line-height: "1.923";
+   
+}
+
+
+
+.grid-one h6{
+    margin-top: 40px;
+}
+
+.grid-three h6{
+    margin-top: 40px;
+}
+
+/* .grid-one span{
+    font-family:"Poppins-Regular";
+    font-size: "15px";
+    line-height: "1.923"
+}
+
+.grid-three span{
+    font-family:"Poppins-Regular";
+    font-size: "15px";
+    line-height: "1.923"
+} */
+.icon-fb:hover{
+background:#274C77;
+}
+
+.icon-tw:hover{
+background:#1DA1F2;
+}
+
+.icon-in:hover{
+background:#E1306C;
+}
+
+.icon-go:hover{
+background: #EA4335;
+}
+
+.icon-li:hover{
+background:#0077b5;
+}
+
+
+.row-one{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  margin-bottom: 5px;
+}
+
+
+.row-one img{
+   width: 100%;
+   max-width: 100px;
+    height: 10vh;
+    border-radius: 10px;
+}
+
+.copyright{
+    font-size: 16px;
+    color: #aaa;
+    text-align: center;
+}
+
+.input-box Button{
+    margin-top: 20px;
+}
+
+.online-payment img{
+    margin-left: 39%;
+}
+
+
+.blackBorders{
+    border-color: white !important;
+}

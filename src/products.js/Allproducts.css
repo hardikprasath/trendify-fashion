@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+.Allproducts{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.img{
+    transition: 0.7s ease;
+}
+.img:hover{
+    transform:scale(1.11);
+}
+
+.card-title{
+    font-size: 14px;
+}
+
+.card-icon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+
+.price{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+    padding-top: 5px;
+}
+
+.img{
+    max-width: 390px;
+    height: 245px;
+    position: relative;
+}
+
+image{
+    display: block;
+    margin: auto;
+}
+
+
+.categories-banner{
+    margin-bottom: 10%;
+}
+
+.content-banner {
+    position: absolute;
+    top: 25px;
+    left: 30px;
+    font-weight:900;
+    font-size: 28px;
+    z-index: 1;
+    
+}
+
+
+
+.card-banner:hover .content-banner{
+    color: white;
+}
+
+.card-banner{
+    max-width: 345;
+    position: relative;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.card-banner:hover  .button-banner{
+    display: block;
+    
+}
+
+.button-banner {
+    display: none;
+    background: #6c79e099;
+    transition: 10s;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+.buttons{
+    top: 75%;
+    left: 9%;
+}
+/* categories-banner - End*/
+
+/*product heading start */
+
+.product-heading h2{
+    /* font-family: Poppins-Bold; */
+    font-weight: 00;
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.product-searchbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.search-bar{
+    display: flex;
+   float: right;
+}
+/*product heading end */
+
+/*latest products card start */
+  
+ 
+  .append-buttons {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .append-buttons button {
+    display: inline-block;
+    cursor: pointer;
+    border: 1px solid #007aff;
+    color: #007aff;
+    text-decoration: none;
+    padding: 4px 10px;
+    border-radius: 4px;
+    margin: 0 10px;
+    font-size: 13px;
+  }
+
+
+  .card-latest{
+    position: relative;
+    background: rgba(0, 0, 0, 0.6);
+  }
+
+  .card-latest:hover .card-new{
+    display: block;
+  }
+
+  .card-new{
+    display: none;
+    background: #2b2b2b7c;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;  
+  }
+
+  .swiper {
+    width: 70%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 50%;
+    height: 100px;
+    object-fit: cover;
+  }

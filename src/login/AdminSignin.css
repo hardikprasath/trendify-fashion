@@ -1,0 +1,58 @@
+.forms-signin {
+    box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.3);
+    background-color: #E2F4FD;
+    max-width: 30rem;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+.signin {
+    margin-top: 40px;
+
+}
+
+.signin-heading h2 {
+    font-family: poppins;
+    text-align: center;
+}
+
+.signin-heading p {
+    text-align: center;
+    font-family: "Jost", sans-serif;
+}
+
+.signin-subheading {
+    color: #03045E;
+}
+
+.signin-subheading span {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.admin-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.circle-icon {
+    font-size: 23px;
+    cursor: pointer;
+}
+
+.admin-signup {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.admin-signup span {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.admin-signup a{
+    cursor: pointer;
+    font-weight: 700;
+}

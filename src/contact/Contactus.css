@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,700&family=Poppins:wght@700&display=swap');
+
+.App {
+    background-color: white;
+  }
+  
+.form-control{
+  height: 45px;
+}
+
+.contact-section{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-right: 150px;
+}
+
+.contact-info{
+  color: #ffffff;
+  max-width: 470px;
+  line-height: 65px;
+  padding-left: 50px;
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 60px;
+}
+
+.contact-info i{
+  margin-right: 7px;
+  font-size: 25px;
+ 
+}
+
+  .Con-form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 70vh;
+  }
+
+.image{
+  background-image:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(/src/images/c3.jpg);
+  min-height: 88.5vh;
+  display: flex;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+  
+  .Con-form {
+    width: 800px;
+    box-shadow: rgba(217, 216, 216, 0.16) 1px 1px 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-right: 110px;
+    background-color: linear-gradient(rgb(239, 237, 242),rgb(233, 226, 246));
+    
+  }
+  
+  .Con-form-content {
+    padding-left: 12%;
+    padding-right: 12%;
+  }
+  
+  .Con-form-title {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 24px;
+    color: rgb(23, 26, 25);
+    font-weight: 800;
+    
+  }
+  
+  labell {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(177 224 205);
+  }
+
+  .Con-form button{
+    color: rgb(255, 255, 255);
+  }
+  
+  /*.Con-form button:hover{
+    color: rgb(177, 236, 236);
+  }
+  */

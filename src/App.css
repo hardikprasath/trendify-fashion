@@ -1,0 +1,41 @@
+.main-div{
+  padding-top: 70px;
+}
+.setPosition{
+  position: sticky !important;
+  top: 0 !important;
+}
+.blackBorder{
+  border-color: #000 !important;
+}
+/* scrollbar start*/
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 50px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #B0DDE8;
+  border-radius: 50px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* scrollbar end*/
+
+/*address form start  */
+
+/* .addressform{
+  padding-bottom: 100px;
+} */
+/*address form end  */

@@ -1,0 +1,72 @@
+.admin-header{
+    background-color: #FCFBEE;
+    height: auto;
+    width: 100%;
+}
+
+.admin{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    
+}
+
+.admin-text{
+    font-size: 30px;
+    font-weight: 500;
+    padding-left: 30px;
+    margin-top: 8%;
+}
+
+.admin-button{
+    margin-top: 8%;
+    padding-right: 30px;
+}
+.css-34nofg-MuiTableRow-root {
+    color: inherit;
+    display: table-row;
+    vertical-align: sub !important;
+    outline: 0;
+}
+
+.del-icon{
+    font-size:25px;
+    cursor:pointer;
+}
+
+.edit-icon{
+    font-size:20px;
+    cursor:pointer;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.del-icon:hover{
+    color: #D64045;
+}
+
+.css-1oqqzyl-MuiContainer-root {
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-bottom: 30px;
+}
+
+.addproduct-btn{
+    text-align: right;
+}
+
+div#category {
+    width: 100px;
+}
+
+.print {
+    float: left;
+}
+
+/* .print .css-6hp17o-MuiList-root-MuiMenu-list{
+    padding-top: 0px ;
+} */

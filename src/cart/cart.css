@@ -1,0 +1,146 @@
+.cart-header {
+    background-color: rgb(230, 228, 228);
+    height: auto;
+    width: 100%;
+}
+
+.table-head {
+    color: rgb(255, 255, 255);
+}
+
+.quantity {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-1 {
+    border-radius: 3px;
+    background-color: #B7E3F6;
+    border: none !important;
+    height: 30px;
+}
+
+.btn-2 {
+    border-radius: 3px;
+    background-color: #B7E3F6;
+    border: none !important;
+    height: 30px;
+}
+
+.display {
+    height: 30px;
+    line-height: 34px;
+    width: 40px;
+    font-size: 18px;
+    color: #0B0A0A;
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+}
+
+.size {
+    margin: 0px auto;
+}
+
+.delete-icon {
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.delete-icon:hover {
+    color: #D64045;
+}
+
+.divider {
+    margin-top: 10px;
+}
+
+
+.textfield-btn {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.coupon-cart {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.cart-total {
+    margin-top: 10px;
+    border-radius: 10px;
+    background: #ffffff;
+    width: 100%;
+    max-width: 370px;
+    height: 30vh;
+}
+
+.cart-total p {
+    font-family: 'Poppins', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.right-div {
+    display: flex;
+    justify-content: right;
+    flex-wrap: wrap;
+}
+
+.sub-total{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sub-total p {
+    font-size: 16px;
+    color: gray;
+}
+
+.sub-total h6{
+    padding-right: 5.8rem;
+}
+
+.total{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.total h6{
+    padding-right: 5.8rem;
+}
+
+.total p {
+    font-size: 16px;
+    color: gray;
+}
+
+.grid{
+    margin-top: 10px;
+}
+
+.icon{
+    font-size: 40px;
+    color: #08C451;
+}
+
+.security-heading{
+    margin-top: 25px;
+    text-align: center;
+    font-family: 'Poppins', Helvetica, Arial, Lucida, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #171725 !important;
+}
+
+.security-content{
+    text-align: center;
+    margin-top: 10px;
+    color: grey;
+}
